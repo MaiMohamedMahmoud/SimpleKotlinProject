@@ -1,2 +1,2 @@
 # SimpleKotlinProject
-Very Simple Android Kotlin Project retrieve list of movies title from ArrayList.
+Very Simple Android Kotlin Project retrieve list of movies  from ArrayList.
